@@ -35,7 +35,7 @@ defmodule GoogleApi.Gax.MixProject do
 
   defp description() do
     """
-    Google API Extensions
+    Common code for Google API clients
     """
   end
 
