@@ -17,7 +17,7 @@
 
 defmodule GoogleApi.AdMob.V1.Connection do
   @moduledoc """
-  Handle Tesla connections for GoogleApi.AdMob.V1.
+  Handles Tesla connections for GoogleApi.AdMob.V1.
   """
 
   @type t :: Tesla.Env.client()

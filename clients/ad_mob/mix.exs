@@ -41,14 +41,13 @@ defmodule GoogleApi.AdMob.Mixfile do
   defp deps() do
     [
       {:google_gax, "~> 0.4"},
-
       {:ex_doc, "~> 0.16", only: :dev}
     ]
   end
 
   defp description() do
     """
-    AdMob API client library. The Google AdMob API lets you programmatically get reports on earnings. 
+    AdMob API client library. The Google AdMob API lets you programmatically get reports on earnings.
     """
   end
 
