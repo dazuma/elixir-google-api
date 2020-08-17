@@ -1,11 +1,6 @@
 [
   {
     "version": "v1",
-    "url": "https://abusiveexperiencereport.googleapis.com/$discovery/rest?version=v1",
-    "name": "AbusiveExperienceReport"
-  },
-  {
-    "version": "v1",
     "url": "https://acceleratedmobilepageurl.googleapis.com/$discovery/rest?version=v1",
     "name": "AcceleratedMobilePageUrl"
   },
