@@ -1,6 +1,12 @@
 [
   {
     "version": "v1",
+    "url": "https://abusiveexperiencereport.googleapis.com/$discovery/rest?version=v1",
+    "publish": "CHECKME: Newly added. Adjust the name capitalization.",
+    "name": "Abusiveexperiencereport"
+  },
+  {
+    "version": "v1",
     "url": "https://acceleratedmobilepageurl.googleapis.com/$discovery/rest?version=v1",
     "name": "AcceleratedMobilePageUrl"
   },
